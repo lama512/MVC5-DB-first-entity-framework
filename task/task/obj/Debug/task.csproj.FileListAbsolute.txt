@@ -1,0 +1,108 @@
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\task.dll.config
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\task.dll
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\task.pdb
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\Antlr3.Runtime.dll
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\EntityFramework.dll
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\EntityFramework.SqlServer.dll
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\Microsoft.Owin.dll
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\Microsoft.Owin.Security.dll
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\Microsoft.Owin.Security.Google.dll
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\Microsoft.Web.Infrastructure.dll
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\Newtonsoft.Json.dll
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\Owin.dll
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\System.Web.Helpers.dll
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\System.Web.Mvc.dll
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\System.Web.Optimization.dll
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\System.Web.Razor.dll
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\System.Web.WebPages.Deployment.dll
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\System.Web.WebPages.dll
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\System.Web.WebPages.Razor.dll
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\WebGrease.dll
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\Antlr3.Runtime.pdb
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\EntityFramework.xml
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\EntityFramework.SqlServer.xml
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\Microsoft.Owin.xml
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\Microsoft.Owin.Security.xml
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\Microsoft.Owin.Security.Google.xml
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\Newtonsoft.Json.xml
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\System.Web.Helpers.xml
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\System.Web.Mvc.xml
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\System.Web.Optimization.xml
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\System.Web.Razor.xml
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\System.Web.WebPages.xml
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\System.Web.WebPages.Deployment.xml
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\bin\System.Web.WebPages.Razor.xml
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\obj\Debug\task.csprojResolveAssemblyReference.cache
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\obj\Debug\task.dll
+c:\users\richarddib\documents\visual studio 2013\Projects\task\task\obj\Debug\task.pdb
+C:\Users\LamaAh\Desktop\demos\task\task\bin\task.dll.config
+C:\Users\LamaAh\Desktop\demos\task\task\bin\task.dll
+C:\Users\LamaAh\Desktop\demos\task\task\bin\task.pdb
+C:\Users\LamaAh\Desktop\demos\task\task\bin\Antlr3.Runtime.dll
+C:\Users\LamaAh\Desktop\demos\task\task\bin\EntityFramework.dll
+C:\Users\LamaAh\Desktop\demos\task\task\bin\EntityFramework.SqlServer.dll
+C:\Users\LamaAh\Desktop\demos\task\task\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\LamaAh\Desktop\demos\task\task\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\LamaAh\Desktop\demos\task\task\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\LamaAh\Desktop\demos\task\task\bin\Microsoft.Owin.dll
+C:\Users\LamaAh\Desktop\demos\task\task\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\LamaAh\Desktop\demos\task\task\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\LamaAh\Desktop\demos\task\task\bin\Microsoft.Owin.Security.dll
+C:\Users\LamaAh\Desktop\demos\task\task\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\LamaAh\Desktop\demos\task\task\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\LamaAh\Desktop\demos\task\task\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\LamaAh\Desktop\demos\task\task\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\LamaAh\Desktop\demos\task\task\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\LamaAh\Desktop\demos\task\task\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LamaAh\Desktop\demos\task\task\bin\Newtonsoft.Json.dll
+C:\Users\LamaAh\Desktop\demos\task\task\bin\Owin.dll
+C:\Users\LamaAh\Desktop\demos\task\task\bin\System.Web.Helpers.dll
+C:\Users\LamaAh\Desktop\demos\task\task\bin\System.Web.Optimization.dll
+C:\Users\LamaAh\Desktop\demos\task\task\bin\System.Web.Razor.dll
+C:\Users\LamaAh\Desktop\demos\task\task\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LamaAh\Desktop\demos\task\task\bin\System.Web.WebPages.dll
+C:\Users\LamaAh\Desktop\demos\task\task\bin\System.Web.WebPages.Razor.dll
+C:\Users\LamaAh\Desktop\demos\task\task\bin\WebGrease.dll
+C:\Users\LamaAh\Desktop\demos\task\task\bin\Antlr3.Runtime.pdb
+C:\Users\LamaAh\Desktop\demos\task\task\bin\EntityFramework.xml
+C:\Users\LamaAh\Desktop\demos\task\task\bin\EntityFramework.SqlServer.xml
+C:\Users\LamaAh\Desktop\demos\task\task\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\LamaAh\Desktop\demos\task\task\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\LamaAh\Desktop\demos\task\task\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\LamaAh\Desktop\demos\task\task\bin\Microsoft.Owin.xml
+C:\Users\LamaAh\Desktop\demos\task\task\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\LamaAh\Desktop\demos\task\task\bin\Microsoft.Owin.Security.xml
+C:\Users\LamaAh\Desktop\demos\task\task\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\LamaAh\Desktop\demos\task\task\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\LamaAh\Desktop\demos\task\task\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\LamaAh\Desktop\demos\task\task\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\LamaAh\Desktop\demos\task\task\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\LamaAh\Desktop\demos\task\task\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\LamaAh\Desktop\demos\task\task\bin\Newtonsoft.Json.xml
+C:\Users\LamaAh\Desktop\demos\task\task\bin\System.Web.Helpers.xml
+C:\Users\LamaAh\Desktop\demos\task\task\bin\System.Web.Optimization.xml
+C:\Users\LamaAh\Desktop\demos\task\task\bin\System.Web.Razor.xml
+C:\Users\LamaAh\Desktop\demos\task\task\bin\System.Web.WebPages.xml
+C:\Users\LamaAh\Desktop\demos\task\task\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LamaAh\Desktop\demos\task\task\bin\System.Web.WebPages.Razor.xml
+C:\Users\LamaAh\Desktop\demos\task\task\obj\Debug\task.csprojResolveAssemblyReference.cache
+C:\Users\LamaAh\Desktop\demos\task\task\obj\Debug\task.dll
+C:\Users\LamaAh\Desktop\demos\task\task\obj\Debug\task.pdb

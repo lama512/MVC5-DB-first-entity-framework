@@ -1,0 +1,20 @@
+﻿@model IEnumerable<task.datum>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+@using (Html.BeginForm("FileUpload", "datum", FormMethod.Post,
+                    new { enctype = "multipart/form-data" }))
+{
+    <div>
+       category<br />
+       @Html.DropDownList("category", ViewBag.Roles as SelectList)
+     <br/>
+       description<br />
+        @Html.TextBox("description") <br />
+        Image<br />
+        <input type="File" name="file" id="file" value="Choose File" />
+        <input type="submit" value="Upload" class="submit" />
+    </div>
+}
